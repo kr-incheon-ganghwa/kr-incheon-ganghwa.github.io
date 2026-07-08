@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kr-incheon-ganghwa.github.io/sitemap.xml
